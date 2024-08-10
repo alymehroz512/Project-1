@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.column1 
+{
+    border: 5px solid #82b74b;
+}
+.column2
+{
+    background-color: #82b74b;
+}
+p 
+{
+    margin-top: 10px;
+}
+hr
+{
+    border: 5px solid #82b74b;
+}
+li 
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+} 
+footer
+{
+    background: #82b74b;
+}  
+h3 
+{
+    background-color: #82b74b; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom, #fff , #82b74b);
+}
